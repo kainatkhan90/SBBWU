@@ -1,0 +1,33 @@
+{
+    "studentsinfo":
+[
+    {
+      "id": 1,
+      "Name": "kainat",
+      "fatherName": "jamil",
+      "dept": "English",
+      "description": "shows the details of the students"
+    },
+    {
+      "id": 2,
+      "Name": "hira",
+      "fatherName": "jamil",
+      "dept": "Urdu",
+      "description": "shows the details of the students"
+    },
+    {
+        "id": 3,
+        "Name": "iram",
+        "fatherName": "jamil",
+        "dept": "CS",
+        "description": "shows the details of the students"
+      },
+    {
+      "id": 4,
+      "Name": "moona",
+      "fatherName": "jamil",
+      "dept": "CS",
+      "description": "shows the details of the students"
+    }
+  ]
+}
